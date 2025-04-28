@@ -1,0 +1,5 @@
+outs:
+- md5: f60e9815bd59556348ac144406c793e6
+  size: 1246256
+  hash: md5
+  path: test.h5
